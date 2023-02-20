@@ -1,4 +1,8 @@
 /*Title*/
+*{
+    color: aliceblue;
+    
+}
 .navbar-brand{
     font-size: 70px;
     color: white;
@@ -22,3 +26,18 @@
     text-transform: capitalize;
     
 }
+
+footer{
+    text-align:center;
+
+}
+
+body {
+    font-family: "Anton", sans-serif; 
+    background-size: cover;
+    background-color: rgb(148, 119, 5);
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+    box-sizing: border-box;
+  }
