@@ -2,7 +2,7 @@
 
 Module 14 Challenge Assignment: Model-View-Controller (MVC) Challenge: Tech Blog
 
-Deployed Link: https://module14-blog.herokuapp.com 
+Deployed Link: https://modelviewcontroller-mytechblog.herokuapp.com/
 
 
 ## Badges
