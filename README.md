@@ -89,7 +89,7 @@ Once your '.env' has been created with the corresponding data, open up the schem
 
 
 ## Usage
-  1. Run `node index.js` in terminal to start. 
+  1. Run `node server.js` in terminal to start. 
   2. Follow through the prompts as required. 
 
   Note:
@@ -98,6 +98,7 @@ Once your '.env' has been created with the corresponding data, open up the schem
 
 
 ## Screenshots of Application in Use
+
 
 ![Screenshot](./assets/images/mytechblog1.jpg)
 
