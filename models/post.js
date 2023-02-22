@@ -42,3 +42,4 @@ Post.init(
 );
 //Export Post
 module.exports = Post;
+//capital

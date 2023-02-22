@@ -46,3 +46,5 @@ Comment.init(
 );
 //Export Comment
 module.exports = Comment;
+
+//capital

@@ -62,3 +62,5 @@ User.init(
   );
   //Export User
   module.exports = User;
+
+  //capital
