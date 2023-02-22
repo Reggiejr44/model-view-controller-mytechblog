@@ -1,9 +1,6 @@
 # model-view-controller-mytechblog
 
-Module 14 Challenge Assignment: Model-View-Controller (MVC) Challenge: Tech Blog
-
-Deployed Link: https://modelviewcontroller-mytechblog.herokuapp.com/
-
+Deployed Link: https://modelviewcontroller-mytechblog.herokuapp.com
 
 ## Table of Contents
   * [Description](#description)
