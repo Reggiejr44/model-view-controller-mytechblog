@@ -90,7 +90,7 @@ Once your '.env' has been created with the corresponding data, open up the schem
 
 ## Usage
   1. Run `node server.js` in terminal to start. 
-  2. Follow through the prompts as required. 
+  2. Then go to 'localhost:3030' in browser.
 
   Note:
 
@@ -99,7 +99,7 @@ Once your '.env' has been created with the corresponding data, open up the schem
 
 ## Screenshots of Application in Use
 
-
+Must sign in to use app.
 ![Screenshot](./assets/images/mytechblog1.jpg)
 
 ![Screenshot](./assets/images/mytechblog2.jpg)
