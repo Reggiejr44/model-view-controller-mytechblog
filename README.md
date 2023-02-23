@@ -99,11 +99,13 @@ Once your '.env' has been created with the corresponding data, open up the schem
 
 ## Screenshots of Application in Use
 
-Must sign in to use app.
+Must sign in or sign up to use app.
 ![Screenshot](./assets/images/mytechblog1.jpg)
 
+Creating a post.
 ![Screenshot](./assets/images/mytechblog2.jpg)
 
+Also able to comment on other post.
 ![Screenshot](./assets/images/mytechblog3.jpg)
 
 
